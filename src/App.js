@@ -20,7 +20,7 @@ const App = () => {
         </p>
       </div>
 
-      <div>
+      <div style={styles.contact}>
         <a style={styles.description} href="https://apps.apple.com/ca/app/canadian-product-scanner/id6742205833">Download The App</a>
       </div>
 
